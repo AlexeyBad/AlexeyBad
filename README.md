@@ -23,7 +23,7 @@
 ### Bettergram
 > *Instagram reimagined – only the content that actually matters.*
  
-An AI-powered tool that automatically analyzes and your Instagram reels. Instead of endless scrolling, Bettergram filters content by personally defined categories (e.g. sports, events, inspiration) and presents the best reels in a clean, dedicated viewer.
+An AI-powered tool that automatically analyzes your Instagram reels. Instead of endless scrolling, Bettergram filters content by personally defined categories (e.g. sports, events, inspiration) and presents the best reels in a clean, dedicated viewer.
  
 - **Target audience:** Users overwhelmed by content overload & influencers looking for creative inspiration
 - **Core idea:** Consume social media – don't be consumed by it
