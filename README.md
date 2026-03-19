@@ -1,5 +1,5 @@
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **CRM & Microsoft ecosystem**
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Next projects 
+##  Next projects 
 
 ### Bettergram
 > *Instagram reimagined – only the content that actually matters.*
